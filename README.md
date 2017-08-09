@@ -1,1 +1,1 @@
-# rest_api_example
+Perform How to use read JSON file using rest_api as well as dynamic data fatching from rest api via php script
